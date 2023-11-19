@@ -1,1 +1,1 @@
-# PlaylistProject
+This project uses a combination of Jupyter Notebook, Python, and the Spotify API to generate a randomized song (out of 390,000+ songs) based on an inputted release year range and genre. The songs can then be added to a playlist that will appear on the user's Spotify account. Jupyter Notebook was used to clean and analyze the dataset and Python was used in conjuction with the Spotify API to connect the program to the user's Spotify account.
