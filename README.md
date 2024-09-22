@@ -17,7 +17,7 @@ If the second vector is identical to the first, the second vector is given a sim
  <br/>
 <p align="center">
   <img src="/images/PlaylistName.png" width="500"/><br/>
-  When the program runs, a `Tkinter` UI appears and prompts the user to enter a title for the playlist. 
+  When the program runs, a <code>Tkinter</code> UI appears and prompts the user to enter a title for the playlist. 
 </p>
 <br/>
 <p align="center">
